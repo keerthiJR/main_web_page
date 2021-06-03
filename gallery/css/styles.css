@@ -43,6 +43,7 @@
   box-sizing: border-box;
 }
 
+
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
@@ -5764,6 +5765,7 @@ textarea.form-control-lg {
 .carousel-inner {
   position: relative;
   width: 100%;
+
   overflow: hidden;
 }
 .carousel-inner::after {
@@ -5771,6 +5773,7 @@ textarea.form-control-lg {
   clear: both;
   content: "";
 }
+
 
 .carousel-item {
   position: relative;
