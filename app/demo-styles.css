@@ -10737,15 +10737,16 @@ html {
   min-height: 15rem;
 }
 
-
-
-footer {
+/*footer {
   display: flex;
   flex-direction: column;
-  max-width: 600px;
-  margin: auto;
+  width:100%;
   text-align: center;
   font-style: italic;
   line-height: 1.5em;
-}
+  margin:0px;
+  padding:0px;
+} */
+
+
 
